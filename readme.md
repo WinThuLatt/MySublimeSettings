@@ -1,0 +1,1 @@
+extract to local sublime preferences settings folder.
